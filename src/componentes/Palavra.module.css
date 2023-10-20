@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap');
+
+
+
+.main{
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.main2{
+    margin: 0px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Fredoka', sans-serif;
+    height: 600px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.main2 button{
+    margin-top: 25px;
+    border-radius: 20px;
+    background-color: #4170E9;
+    color: white;
+    padding: 13px;
+    font-family: 'Fredoka', sans-serif;
+    border: 0px;
+
+}
+
+.input{
+    padding: 10px;
+    border: 4px solid #4170E9;
+    border-radius: 20px;
+    margin-top: -30px;
+    margin-right: 20px;
+}
+
+.palavras {
+    height: 1px;
+}
+
+
+.main2 img{
+    height: 250px;
+}
+
+
+.basinga{
+    margin-top: -50px;
+    display: block;
+}
